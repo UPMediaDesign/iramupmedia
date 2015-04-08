@@ -1,0 +1,1268 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"navbar",
+				"navbar-collapse"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"logo",
+				"logo-banmedica"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"nav",
+				"navbar-collapse"
+			],
+			[
+				"medi",
+				"medic-ask"
+			],
+			[
+				"em",
+				"empty"
+			],
+			[
+				"list-",
+				"list-style"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"content",
+				"content-coment"
+			],
+			[
+				"padding-",
+				"padding-bottom"
+			],
+			[
+				"h",
+				"h3	Tag"
+			],
+			[
+				"testimo",
+				"testimonios"
+			],
+			[
+				"line-gree",
+				"line-green-1"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"max",
+				"maxSlides"
+			],
+			[
+				"enfo",
+				"endforeach"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"line",
+				"line-green-0"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"slides",
+				"slides-pagination"
+			],
+			[
+				"vide",
+				"videos-ctrl"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"fi",
+				"figure"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"videos",
+				"videos-area"
+			],
+			[
+				"blo",
+				"bloginfo"
+			],
+			[
+				"helvetica",
+				"helveticaNeue"
+			],
+			[
+				"slide",
+				"slides-pagination"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"menu",
+				"menu"
+			],
+			[
+				"pdd",
+				"padding-top"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"sa",
+				"sans-serif"
+			],
+			[
+				"backgroun",
+				"background-image"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"backg",
+				"background-size"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"tr",
+				"treatments"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"gr",
+				"green-nav"
+			],
+			[
+				"fff",
+				"ffffff"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"center",
+				"centered"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"bold",
+				"bolder"
+			],
+			[
+				"s",
+				"sugerences"
+			],
+			[
+				"fig",
+				"figcaption"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"conten",
+				"contenedor-footer"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"blue",
+				"blue-timing"
+			],
+			[
+				"form",
+				"form-container"
+			],
+			[
+				"op",
+				"open_sansregular"
+			],
+			[
+				"backgrou",
+				"background-image"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"hoe",
+				"hover"
+			],
+			[
+				"pa",
+				"panel-body"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"bol",
+				"bolder"
+			],
+			[
+				"f",
+				"font-family"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"MARGIN",
+				"margin-top"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"col",
+				"colBig"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"wid",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "wp-content/themes/iram/header.php",
+			"settings":
+			{
+				"buffer_size": 6449,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Searching 1828 files for \"container paginas\"\n\n/Users/upmedia/GitHub/iramupmedia/wp-content/themes/iram/awards.php:\n   10  }\n   11  </style>\n   12: <div class=\"container paginas\">\n   13  <div class=\"jumbotron pages\">\n   14  <h1><?php the_title(); ?></br><strong><?php echo get('segundo_titulo'); ?></strong></h1>\n\n/Users/upmedia/GitHub/iramupmedia/wp-content/themes/iram/contacto.php:\n   93          </script>\n   94  \n   95: <div class=\"container paginas\">\n   96  <div class=\"jumbotron pages\">\n   97  <h1><?php the_title(); ?></br><strong><?php echo get('segundo_titulo'); ?></strong></h1>\n\n/Users/upmedia/GitHub/iramupmedia/wp-content/themes/iram/historias-de-vida.php:\n   10  }\n   11  </style>\n   12: <div class=\"container paginas\">\n   13  <div class=\"jumbotron pages\">\n   14  <h1><?php the_title(); ?></br><strong><?php echo get('segundo_titulo'); ?></strong></h1>\n\n/Users/upmedia/GitHub/iramupmedia/wp-content/themes/iram/noticias.php:\n   10  }\n   11  </style>\n   12: <div class=\"container paginas\">\n   13  <div class=\"jumbotron pages\">\n   14  <h1><?php the_title(); ?></br><strong><?php echo get('segundo_titulo'); ?></strong></h1>\n\n/Users/upmedia/GitHub/iramupmedia/wp-content/themes/iram/nuestra-filosofia.php:\n   10  }\n   11  </style>\n   12: <div class=\"container paginas\">\n   13  <div class=\"jumbotron pages\">\n   14  <h1><?php the_title(); ?></br><strong><?php echo get('segundo_titulo'); ?></strong></h1>\n\n/Users/upmedia/GitHub/iramupmedia/wp-content/themes/iram/page.php:\n    5  }\n    6  </style>\n    7: <div class=\"container paginas\">\n    8  <div class=\"jumbotron pages\">\n    9  <h1><?php the_title(); ?></br><strong><?php echo get('segundo_titulo'); ?></strong></h1>\n\n/Users/upmedia/GitHub/iramupmedia/wp-content/themes/iram/publicaciones.php:\n   10  }\n   11  </style>\n   12: <div class=\"container paginas\">\n   13  <div class=\"jumbotron pages\">\n   14  <h1><?php the_title(); ?></br><strong><?php echo get('segundo_titulo'); ?></strong></h1>\n\n/Users/upmedia/GitHub/iramupmedia/wp-content/themes/iram/que-es-el-cancer.php:\n   10  \n   11  </style>\n   12: <div class=\"container paginas\">\n   13  <div class=\"jumbotron pages\">\n   14  <h1><?php the_title(); ?></br><strong><?php echo get('segundo_titulo'); ?></strong></h1>\n\n/Users/upmedia/GitHub/iramupmedia/wp-content/themes/iram/seguros.php:\n    6  <?php get_header('interior'); ?>\n    7  \n    8: <div class=\"container paginas\">\n    9  <div class=\"jumbotron pages\">\n   10  <h1><?php the_title(); ?></br><strong><?php echo get('segundo_titulo'); ?></strong></h1>\n\n/Users/upmedia/GitHub/iramupmedia/wp-content/themes/iram/single-doctor.php:\n    5  }\n    6  </style>\n    7: <div class=\"container paginas\">\n    8  <div class=\"jumbotron pages\">\n    9  <h1><?php the_title(); ?></br><strong><?php echo get('actividad'); ?></strong></h1>\n\n/Users/upmedia/GitHub/iramupmedia/wp-content/themes/iram/single-noticia.php:\n    5  }\n    6  </style>\n    7: <div class=\"container paginas\">\n    8  <div class=\"jumbotron pages\">\n    9  <h1>Noticias</br></h1>\n\n/Users/upmedia/GitHub/iramupmedia/wp-content/themes/iram/single-publicacion.php:\n    5  }\n    6  </style>\n    7: <div class=\"container paginas\">\n    8  <div class=\"jumbotron pages\">\n    9  <h1><?php the_title(); ?></br><strong><?php echo get('segundo_titulo'); ?></strong></h1>\n\n/Users/upmedia/GitHub/iramupmedia/wp-content/themes/iram/single-seguro.php:\n    8  \n    9  \n   10: <div class=\"container paginas\">\n   11  <div class=\"jumbotron pages\">\n   12  <div class=\"datosPrecios2\">DESDE<br/><strong><?php echo get('datos_precio');?></strong></div>\n\n/Users/upmedia/GitHub/iramupmedia/wp-content/themes/iram/single-tipo_de_cancer.php:\n    1  <?php get_header('interior'); ?>\n    2  \n    3: <div class=\"container paginas\">\n    4  <div class=\"jumbotron pages\">\n    5  <h1><?php the_title(); ?><br /><strong><?php echo get('segundo_titulo_cancer'); ?></strong></h1>\n\n/Users/upmedia/GitHub/iramupmedia/wp-content/themes/iram/single-tratamiento.php:\n    4  }\n    5  </style>\n    6: <div class=\"container paginas\">\n    7  <div class=\"jumbotron pages\">\n    8  <h1><?php the_title(); ?></br><strong><?php echo get('segundo_titulo_tratamiento'); ?></strong></h1>\n\n/Users/upmedia/GitHub/iramupmedia/wp-content/themes/iram/staff-medico.php:\n   11  \n   12  </style>\n   13: <div class=\"container paginas\">\n   14  <div class=\"jumbotron pages\">\n   15  <h1><?php the_title(); ?></br><strong><?php echo get('segundo_titulo'); ?></strong></h1>\n\n/Users/upmedia/GitHub/iramupmedia/wp-content/themes/iram/tipos-de-cancer.php:\n   10  }\n   11  </style>\n   12: <div class=\"container paginas\">\n   13  <div class=\"jumbotron pages\">\n   14  <h1><?php the_title(); ?></br><strong><?php echo get('segundo_titulo'); ?></strong></h1>\n\n/Users/upmedia/GitHub/iramupmedia/wp-content/themes/iram/tratamientos.php:\n    6  <?php get_header('interior'); ?>\n    7  \n    8: <div class=\"container paginas\">\n    9  <div class=\"jumbotron pages\">\n   10  <div class=\"datosPrecios2\"><a href=\"#\"><strong>Solicita tu Seguro Oncológico</strong></a></div>\n\n18 matches across 18 files\n\n\nSearching 1828 files for \"imagenGrande\"\n\n/Users/upmedia/GitHub/iramupmedia/wp-content/themes/iram/awards.php:\n   15  <p><?php echo get('descripcion_corta'); ?></p>\n   16  </div>\n   17: <div id=\"imagenGrande\"><?php the_post_thumbnail('pageNoticias', array('class' => 'img-responsive')); ?></div>\n   18  \n   19  \n\n/Users/upmedia/GitHub/iramupmedia/wp-content/themes/iram/historias-de-vida.php:\n   16  <a href=\"/seguros\" class=\"solicitaSeguro\">Solicita tu Seguro Oncológico</a>\n   17  </div>\n   18: <div id=\"imagenGrande\"><?php the_post_thumbnail('pageNoticias', array('class' => 'img-responsive')); ?></div>\n   19  \n   20  \n\n/Users/upmedia/GitHub/iramupmedia/wp-content/themes/iram/noticias.php:\n   15  <p><?php echo get('descripcion_corta'); ?></p>\n   16  </div>\n   17: <div id=\"imagenGrande\"><?php the_post_thumbnail('pageNoticias', array('class' => 'img-responsive')); ?></div>\n   18  \n   19  <div class=\"row\">\n\n/Users/upmedia/GitHub/iramupmedia/wp-content/themes/iram/nuestra-filosofia.php:\n   15  <p><?php echo get('descripcion_corta'); ?></p>\n   16  </div>\n   17: <div id=\"imagenGrande\"><?php the_post_thumbnail('pageNoticias', array('class' => 'img-responsive')); ?></div>\n   18  \n   19  \n\n/Users/upmedia/GitHub/iramupmedia/wp-content/themes/iram/page.php:\n   10  <p><?php echo get('descripcion_corta'); ?></p>\n   11  </div>\n   12: <div id=\"imagenGrande\"><?php the_post_thumbnail('pageNoticias', array('class' => 'img-responsive')); ?></div>\n   13  \n   14  \n\n/Users/upmedia/GitHub/iramupmedia/wp-content/themes/iram/publicaciones.php:\n   15  <p><?php echo get('descripcion_corta'); ?></p>\n   16  </div>\n   17: <div id=\"imagenGrande\"><?php the_post_thumbnail('pageNoticias', array('class' => 'img-responsive')); ?></div>\n   18  \n   19  \n\n/Users/upmedia/GitHub/iramupmedia/wp-content/themes/iram/que-es-el-cancer.php:\n   16  <a href=\"/seguros\" class=\"solicitaSeguro\">Solicita tu Seguro Oncológico</a>\n   17  </div>\n   18: <div id=\"imagenGrande\"><?php the_post_thumbnail('pageNoticias', array('class' => 'img-responsive')); ?></div>\n   19  \n   20  \n\n/Users/upmedia/GitHub/iramupmedia/wp-content/themes/iram/seguros.php:\n   11  <p><?php echo get('descripcion_corta'); ?></p>\n   12  </div>\n   13: <div id=\"imagenGrande\"><?php the_post_thumbnail('pageNoticias', array('class' => 'img-responsive')); ?></div>\n   14  \n   15  <div class=\"row\">\n\n/Users/upmedia/GitHub/iramupmedia/wp-content/themes/iram/single-doctor.php:\n   11  <p>Contacto: <a class=\"mail\" href=\"mailto:<?php echo get('mail_doctor'); ?>\" target=\"_blank\"><?php echo get('mail_doctor'); ?></a></p>\n   12  </div>\n   13: <div id=\"imagenGrande\"><?php echo get_image('foto_grande'); ?></div>\n   14  \n   15  \n\n/Users/upmedia/GitHub/iramupmedia/wp-content/themes/iram/single-noticia.php:\n   10  <p><?php the_title(); ?></p>\n   11  </div>\n   12: <div id=\"imagenGrande\"><?php the_post_thumbnail('pageNoticias', array('class' => 'img-responsive')); ?></div>\n   13  \n   14  \n\n/Users/upmedia/GitHub/iramupmedia/wp-content/themes/iram/single-publicacion.php:\n   10  <p><?php echo get('descripcion_corta'); ?></p>\n   11  </div>\n   12: <div id=\"imagenGrande\"><?php the_post_thumbnail('imagenPage', array('class' => 'img-responsive')); ?></div>\n   13  \n   14  \n\n/Users/upmedia/GitHub/iramupmedia/wp-content/themes/iram/single-seguro.php:\n   14  <p><?php echo get('descripcion_corta'); ?></p>\n   15  </div>\n   16: <div id=\"imagenGrande\"><?php the_post_thumbnail('imagenPage', array('class' => 'img-responsive')); ?></div>\n   17  \n   18  \n\n/Users/upmedia/GitHub/iramupmedia/wp-content/themes/iram/single-tipo_de_cancer.php:\n    7  <a href=\"/seguro-oncologico\" class=\"solicitaSeguro\">Solicita tu Seguro Oncológico</a>\n    8  </div>\n    9: <div id=\"imagenGrande\"><?php the_post_thumbnail('pageNoticias', array('class' => 'img-responsive')); ?></div>\n   10  \n   11  <div class=\"row\">\n\n/Users/upmedia/GitHub/iramupmedia/wp-content/themes/iram/single-tratamiento.php:\n   10  <a href=\"/seguros\" class=\"solicitaSeguro\">Solicita tu Seguro Oncológico</a>\n   11  </div>\n   12: <div id=\"imagenGrande\"><?php the_post_thumbnail('pageNoticias', array('class' => 'img-responsive')); ?></div>\n   13  \n   14  \n\n/Users/upmedia/GitHub/iramupmedia/wp-content/themes/iram/staff-medico.php:\n   16  <p><?php echo get('descripcion_corta'); ?></p>\n   17  </div>\n   18: <div id=\"imagenGrande\"><?php the_post_thumbnail('pageNoticias', array('class' => 'img-responsive')); ?></div>\n   19  \n   20  <div class=\"row\">\n\n/Users/upmedia/GitHub/iramupmedia/wp-content/themes/iram/style.css:\n  789  }\n  790  \n  791: #imagenGrande{\n  792  	margin-bottom:30px;\n  793  }\n\n/Users/upmedia/GitHub/iramupmedia/wp-content/themes/iram/tipos-de-cancer.php:\n   15  <p><?php echo get('descripcion_corta'); ?></p>\n   16  </div>\n   17: <div id=\"imagenGrande\"><?php the_post_thumbnail('pageNoticias', array('class' => 'img-responsive')); ?></div>\n   18  \n   19  <div class=\"row\">\n\n/Users/upmedia/GitHub/iramupmedia/wp-content/themes/iram/tratamientos.php:\n   12  <p><?php echo get('descripcion_corta'); ?></p>\n   13  </div>\n   14: <div id=\"imagenGrande\"><?php the_post_thumbnail('pageNoticias', array('class' => 'img-responsive')); ?></div>\n   15  \n   16  <?php the_content(); ?>\n\n18 matches across 18 files\n\n\nSearching 1828 files for \"Otras Noticias\"\n\n/Users/upmedia/GitHub/iramupmedia/wp-content/languages/admin-es_ES.po:\n 5027  #: wp-admin/includes/dashboard.php:988\n 5028  msgid \"Other WordPress News\"\n 5029: msgstr \"Otras noticias sobre WordPress\"\n 5030  \n 5031  #: wp-admin/includes/class-wp-upgrader-skins.php:429\n\n/Users/upmedia/GitHub/iramupmedia/wp-content/themes/iram/sidebar-noticias.php:\n    1: <h2>Otras Noticias</h2>\n    2  \n    3  <? query_posts('posts_per_page=6&orderby=rand&paged='.$paged.'&post_type=noticia'); ?>\n\n2 matches across 2 files\n",
+			"settings":
+			{
+				"buffer_size": 10785,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "wp-content/themes/iram/sidebar-noticias.php",
+			"settings":
+			{
+				"buffer_size": 660,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/iram/header-interior.php",
+			"settings":
+			{
+				"buffer_size": 5535,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "wp-content/themes/iram/single-doctor.php",
+			"settings":
+			{
+				"buffer_size": 2776,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/iram/functions.php",
+			"settings":
+			{
+				"buffer_size": 15345,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/iram/footer.php",
+			"settings":
+			{
+				"buffer_size": 7368,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "wp-content/themes/iram/single-tratamiento.php",
+			"settings":
+			{
+				"buffer_size": 4054,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/iram/style.css",
+			"settings":
+			{
+				"buffer_size": 26065,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 387.0,
+		"selected_items":
+		[
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/upmedia/GitHub/iramupmedia/wp-content/themes/iram/awards.php",
+		"/Users/upmedia/GitHub/iramupmedia/wp-content/themes/iram/bootstrap/css/bootstrap.css",
+		"/Users/upmedia/GitHub/mujer_descubre_wp/wp-content/themes/mujer/js/superslides.js",
+		"/Users/upmedia/GitHub/mujer_descubre_wp/wp-content/themes/mujer/footer.php",
+		"/Users/upmedia/GitHub/santodomingo/category.php",
+		"/Users/upmedia/GitHub/mujer_descubre_wp/wp-content/themes/mujer/js/jquery.highlight-5.js",
+		"/Users/upmedia/GitHub/mujer_descubre_wp/wp-content/themes/mujer/page-165.php",
+		"/Users/upmedia/GitHub/mujer_descubre_wp/wp-content/themes/mujer/bootstrap/css/bootstrap.min.css",
+		"/Users/upmedia/GitHub/mujer_descubre_wp/wp-content/themes/mujer/alo-doctor-b.php",
+		"/Users/upmedia/GitHub/mujer_descubre_wp/wp-content/themes/mujer/js/jquery.bxslider.js",
+		"/Users/upmedia/GitHub/mujer_descubre_wp/wp-content/themes/mujer/beneficiadas.php",
+		"/Users/upmedia/GitHub/mujer_descubre_wp/wp-content/themes/mujer/functions.php",
+		"/Users/upmedia/GitHub/mujer_descubre_wp/wp-content/themes/mujer/css/jquery.bxslider.css",
+		"/Users/upmedia/GitHub/mujer_descubre_wp/wp-content/themes/mujer/header.php",
+		"/Users/upmedia/GitHub/mujer_descubre_wp/wp-content/themes/mujer/index.php",
+		"/Users/upmedia/GitHub/mujer_descubre_wp/wp-content/themes/mujer/page-6.php",
+		"/Users/upmedia/GitHub/mujer_descubre_wp/wp-content/themes/mujer/jfunctions.php",
+		"/Users/upmedia/GitHub/mujer_descubre_wp/wp-content/themes/fndc/functions.php",
+		"/Users/upmedia/GitHub/mujer_descubre_wp/wp-content/themes/mujer/wp_bootstrap_navwalker.php",
+		"/Users/upmedia/GitHub/mujer_descubre_wp/wp-content/themes/mujer/bootstrap/css/bootstrap-theme.min.css",
+		"/Users/upmedia/GitHub/mujer_descubre_wp/wp-includes/comment-template.php",
+		"/Users/upmedia/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/upmedia/GitHub/banmedica-descubre/beneficiadas.html",
+		"/Users/upmedia/Dropbox/Super Team/@Descubre tus Piernas/02-Front/index.html",
+		"/Users/upmedia/GitHub/banmedica-descubre/index.html",
+		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile/wp-content/themes/ipchile_2013/formulario/php/enviar-landing.php",
+		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile/wp-content/themes/ipchile_2013/formulario/php/enviar_admision.php",
+		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile/wp-content/themes/ipchile_2013/style.css",
+		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile/wp-content/themes/ipchile_2013/tpl_admision.php",
+		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile/.htaccess",
+		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile/wp-content/themes/ipchile_2013/tpl_admision_2.php",
+		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile/wp-content/themes/ipchile_2013/tpl_egresados_inicio.php",
+		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile/wp-content/themes/ipchile_2013/single.php",
+		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile/wp-content/themes/ipchile_2013/tpl_acreditacion.php",
+		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile/wp-content/themes/ipchile_2013/header.php",
+		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile/wp-content/themes/ipchile_2013/footer.php",
+		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile/wp-content/themes/ipchile_2013/header-egresados.php",
+		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile/error_log",
+		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile/.htaccess-bak",
+		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile/wp-content/themes/ipchile_2013/archive.php",
+		"/Users/upmedia/GitHub/IPChile/landing.html",
+		"/Users/upmedia/Dropbox/Super Team/@ipchile/Landing/IPChile/index.html",
+		"/Users/upmedia/Desktop/Sitio IP Chile/ipchile_capacita/__db__/promo.php",
+		"/Users/upmedia/Desktop/programagobierno_WP/wp-content/themes/jt-theme/assets/js/bootstrap.js",
+		"/Users/upmedia/Desktop/programagobierno_WP/wp-content/themes/jt-theme/assets/js/app.js",
+		"/Users/upmedia/Desktop/programagobierno_WP/wp-content/themes/jt-theme/archive-jurisprudencia.php",
+		"/Users/upmedia/Desktop/programagobierno_WP/wp-content/themes/jt-theme/page-17.php",
+		"/Users/upmedia/Desktop/programagobierno_WP/wp-content/themes/jt-theme/page-linea-investigacion.php",
+		"/Users/upmedia/Desktop/programagobierno_WP/wp-content/themes/jt-theme/single-eventos.php",
+		"/Users/upmedia/Desktop/programagobierno_WP/wp-content/themes/jt-theme/single-directorio.php",
+		"/Users/upmedia/Desktop/programagobierno_WP/wp-content/themes/jt-theme/search.php",
+		"/Users/upmedia/Desktop/programagobierno_WP/wp-content/themes/jt-theme/header.php",
+		"/Users/upmedia/Desktop/programagobierno_WP/wp-content/themes/jt-theme/__archive-publicaciones.php",
+		"/Users/upmedia/Desktop/programagobierno_WP/wp-content/themes/jt-theme/archive-directores.php",
+		"/Users/upmedia/Desktop/programagobierno_WP/wp-content/themes/jt-theme/comments.php",
+		"/Users/upmedia/Desktop/programagobierno_WP/wp-content/themes/jt-theme/page.php",
+		"/Users/upmedia/Desktop/programagobierno_WP/wp-content/themes/jt-theme/page-directores.php",
+		"/Users/upmedia/Desktop/programagobierno_WP/wp-content/themes/jt-theme/fullpage.php",
+		"/Users/upmedia/Desktop/programagobierno_WP/wp-content/themes/jt-theme/category.php",
+		"/Users/upmedia/Desktop/programagobierno_WP/wp-content/themes/jt-theme/category-noticias.php",
+		"/Users/upmedia/Desktop/programagobierno_WP/wp-content/themes/jt-theme/index.php",
+		"/Users/upmedia/Desktop/programagobierno_WP/wp-content/themes/jt-theme/functions.php",
+		"/Users/upmedia/Desktop/IRAM_WP/wp-content/themes/iram/js/jquery.bxslider.js",
+		"/Users/upmedia/Desktop/IRAM_WP/wp-content/themes/iram/js/jquery.easing.1.3.js",
+		"/Users/upmedia/Desktop/IRAM_WP/wp-content/themes/iram/bootstrap/css/bootstrap-theme.min.css",
+		"/Users/upmedia/Desktop/IRAM_WP/wp-content/themes/iram/bootstrap/css/bootstrap-theme.css.map",
+		"/Users/upmedia/Desktop/IRAM_WP/wp-content/themes/iram/functions.php",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/index.html",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/page_banners.php",
+		"/Users/upmedia/Desktop/SITIOS/UPMEDIA/public_html/regcom/wp-content/themes/front/page-actividades.php",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/style.css",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/footer.php",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/header.php",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/search.php",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/wp-config.php",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/wp-config-sample.php",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/functions.php",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/author.php",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/superfish.js",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/theme_trust.js",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/options-interface.php",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/mr-meta-box.js",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/mr-meta-box.min.js",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/mod_jacontentslider.css",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/layout.css",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/k2.css",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/component.css",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/.htaccess",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/index.php",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/index-one.php",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/ajax.json",
+		"/Users/upmedia/Desktop/house/index.html",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/style7.css",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/page-fullwidth.png",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/OAuth.php",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/twitteroauth.php",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/uservoice.html",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/page-servicios.php",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/page-equipo.php",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/page-archives.php",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/part-post.php",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/archive.php",
+		"/Users/upmedia/Desktop/paid.json",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/dato20130830093548.log",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/dato20130830094427.log",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/dato20130830094500.log",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/page-contacto.php",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/header 3.php",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/header 2.php",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/tinynav.min.js",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/page-home.php",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/single-servicios.php",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/jquery.fittext.js",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/sidebar.php",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/part-pagination.php",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/links.php",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/options.php",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/taxonomy-skill.php",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/options-custom.js",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/single.php",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/page.php",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/tbk_config.dat",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/TBK_EVN20130730.log",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/cierrewebpay.php",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/page-contactanos.php",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/custom.css",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/tbk_config 2.dat",
+		"/private/var/folders/qt/8cc7xcts4cjccztx7wylwbjh0000gn/T/fz3temp-1/tbk_bp_pago.cgi"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"/Users/upmedia/GitHub/santodomingo"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Otras Noticias",
+			"imagenGrande",
+			"container paginas",
+			"display-on-mobile",
+			"hide-on-desktop",
+			"hide-on",
+			"slides",
+			".loader",
+			"loader",
+			"transition",
+			".border",
+			"border",
+			"Aló Doctor",
+			"substr",
+			"container white videos pdbottom30",
+			"Beneficiadas",
+			"post",
+			"qSlider",
+			"vide",
+			"video",
+			"line-green",
+			"logged",
+			"chat",
+			"logged-in-as",
+			"panel-group",
+			"border",
+			"tratamiento",
+			"trata",
+			"tratanientos",
+			"navbar-collapse",
+			"navbar-collapse.container>.navbar-header, .container-fluid>.navbar-header, .container>.navbar-collapse, .container-fluid>.navbar-collapse",
+			"navbar-collapse",
+			"container",
+			";}",
+			"@media",
+			"navbar-toggle",
+			"ins",
+			"aranci",
+			"row",
+			"col-md-esp",
+			"body",
+			"primary",
+			"bxslider",
+			"panel-body",
+			".panel-group .panel-heading+.panel-collapse .panel-body",
+			"panel-collapse",
+			"panel-default",
+			"panel-heading",
+			".panel-heading",
+			"00aeef",
+			"#00aeef",
+			"panel-default",
+			".panel-default",
+			".panel-default>.panel-heading",
+			" }",
+			"comment",
+			"helvetica",
+			"helvetica,",
+			"bolder",
+			"bold",
+			"bolder",
+			"bold",
+			".beneficiadas",
+			".jumbotron.h1",
+			"jumbotron.h1",
+			"bigcarousel",
+			"$menu_class",
+			"ul",
+			"media=\"all\"\n@media screen and (min-width: 769px",
+			".about",
+			".col-md-esp",
+			".row",
+			"header",
+			"background",
+			"@",
+			"modernizr",
+			"hornbg-student",
+			"horn",
+			"background-image: url",
+			"background.image: url",
+			"ipchile",
+			"ipcchile",
+			"error",
+			"id",
+			"errorSede",
+			"$origen",
+			"enviado",
+			"enviado desde",
+			"btn-chat",
+			"wp_paginate",
+			"row marginTop3 marginBottom3",
+			"google",
+			"menu-jurisprudencia",
+			"nav-eventos",
+			"box-base",
+			"wp_nav_menu",
+			"menu-menu-1",
+			"wp_nav_menu",
+			".panel-default>.panel-heading",
+			"data-parent",
+			"data-parent=",
+			"data-parent=\"accordion\"",
+			"collapse",
+			"caracteristicas_cancer",
+			"accordion",
+			"url(",
+			"url()",
+			".panel-default>.panel-heading",
+			".panel-default>",
+			".panel-default>.panel-heading",
+			".panel-heading",
+			".panel-default>.panel-heading",
+			".panel-body",
+			"panel-group",
+			"col-md-6",
+			"button",
+			" span.amount",
+			"#top",
+			"h1.page-title",
+			"tbag",
+			"input[type=text], input.input-text, textarea, input.txt, input[type=tel], input[type=email]",
+			"#header .nav-toggle",
+			"ul.products li.product img",
+			"navigation",
+			"wrapper",
+			"footer-wrap",
+			"#header #navigation",
+			"a{"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "wp-content/themes/iram/header.php",
+					"settings":
+					{
+						"buffer_size": 6449,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5147,
+								5147
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 467.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"settings":
+					{
+						"buffer_size": 10785,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										159,
+										176
+									],
+									[
+										436,
+										453
+									],
+									[
+										714,
+										731
+									],
+									[
+										983,
+										1000
+									],
+									[
+										1261,
+										1278
+									],
+									[
+										1526,
+										1543
+									],
+									[
+										1800,
+										1817
+									],
+									[
+										2076,
+										2093
+									],
+									[
+										2367,
+										2384
+									],
+									[
+										2641,
+										2658
+									],
+									[
+										2911,
+										2928
+									],
+									[
+										3124,
+										3141
+									],
+									[
+										3389,
+										3406
+									],
+									[
+										3699,
+										3716
+									],
+									[
+										3986,
+										4003
+									],
+									[
+										4270,
+										4287
+									],
+									[
+										4546,
+										4563
+									],
+									[
+										4842,
+										4859
+									],
+									[
+										5226,
+										5238
+									],
+									[
+										5537,
+										5549
+									],
+									[
+										5810,
+										5822
+									],
+									[
+										6109,
+										6121
+									],
+									[
+										6378,
+										6390
+									],
+									[
+										6656,
+										6668
+									],
+									[
+										6966,
+										6978
+									],
+									[
+										7238,
+										7250
+									],
+									[
+										7621,
+										7633
+									],
+									[
+										7841,
+										7853
+									],
+									[
+										8124,
+										8136
+									],
+									[
+										8400,
+										8412
+									],
+									[
+										8723,
+										8735
+									],
+									[
+										9052,
+										9064
+									],
+									[
+										9329,
+										9341
+									],
+									[
+										9557,
+										9569
+									],
+									[
+										9771,
+										9783
+									],
+									[
+										10065,
+										10077
+									],
+									[
+										10446,
+										10460
+									],
+									[
+										10637,
+										10651
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								10567,
+								10567
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"incomplete_sync": null,
+							"output_tag": 3,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 4230.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "wp-content/themes/iram/sidebar-noticias.php",
+					"settings":
+					{
+						"buffer_size": 660,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								221,
+								221
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "wp-content/themes/iram/header-interior.php",
+					"settings":
+					{
+						"buffer_size": 5535,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 981.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "wp-content/themes/iram/single-doctor.php",
+					"settings":
+					{
+						"buffer_size": 2776,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								444,
+								456
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "wp-content/themes/iram/functions.php",
+					"settings":
+					{
+						"buffer_size": 15345,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1542,
+								1542
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "wp-content/themes/iram/footer.php",
+					"settings":
+					{
+						"buffer_size": 7368,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1348,
+								1348
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "wp-content/themes/iram/single-tratamiento.php",
+					"settings":
+					{
+						"buffer_size": 4054,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								577,
+								577
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 8,
+					"file": "wp-content/themes/iram/style.css",
+					"settings":
+					{
+						"buffer_size": 26065,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22647,
+								22647
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 20224.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 261.0,
+	"status_bar_visible": true
+}

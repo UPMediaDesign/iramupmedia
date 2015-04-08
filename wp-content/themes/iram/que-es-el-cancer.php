@@ -13,6 +13,7 @@ Template Name: ¿Qué es el Cáncer?
 <div class="jumbotron pages">
 <h1><?php the_title(); ?></br><strong><?php echo get('segundo_titulo'); ?></strong></h1>
 <p><?php echo get('descripcion_corta'); ?></p>
+<a href="/seguros" class="solicitaSeguro">Solicita tu Seguro Oncológico</a>
 </div>
 <div id="imagenGrande"><?php the_post_thumbnail('pageNoticias', array('class' => 'img-responsive')); ?></div>
 

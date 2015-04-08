@@ -83,9 +83,10 @@
     
 $('.bxslider').bxSlider({
   minSlides: 2,
-  maxSlides: 3,
+  maxSlides: 6,
   slideWidth: 160,
-  moveSlides: 5,
+  infiniteLoop: false,
+  moveSlides: 6,
   slideMargin: 30
 });
   });  

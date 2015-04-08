@@ -8,7 +8,7 @@
 
 <div class="col-sm-6 col-md-5 col-lg-6 Insurance">
 <small class="above">Desde</small>
-<h2>0,7 <small>UF</small></h2>
+<h2><small>$</small> 5.990</h2>
 <small class="sub">Mensuales / Contrato Anual</small>
 <p><?php the_content(); ?></p>
 <a href="<?php echo get_permalink(); ?>" class="btn btn-lg btn-default btnAsegurado">Información de Seguros</a>

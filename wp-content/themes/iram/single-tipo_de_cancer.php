@@ -4,6 +4,7 @@
 <div class="jumbotron pages">
 <h1><?php the_title(); ?><br /><strong><?php echo get('segundo_titulo_cancer'); ?></strong></h1>
 <p><?php echo get('descripcion_corta_cancer'); ?></p>
+<a href="/seguro-oncologico" class="solicitaSeguro">Solicita tu Seguro Oncológico</a>
 </div>
 <div id="imagenGrande"><?php the_post_thumbnail('pageNoticias', array('class' => 'img-responsive')); ?></div>
 
@@ -48,8 +49,22 @@ $id = get_the_ID();?>
 </div><!--panel-group-->
 
 </div><!--6-->
+
+					<!-- Elastislide Carousel -->
+                    <div class="col-md-6">
+                    <h2>Otros tipos de Cáncer</h2>
+					<ul class="bxslider">
+                    <? query_posts('posts_per_page=-1&paged='.$paged.'&post_type=tipo_de_cancer'); ?>
+   <?php while ( $wp_query->have_posts() ) : $wp_query->the_post(); ?>
+						<li><a href="<?php the_permalink(); ?>" class="cancerList"><?php the_title(); ?></a></li>
+                        <?php endwhile; ?>
+					</ul>
+                    </div>
+					<!-- End Elastislide Carousel -->
+                    
 </div><!--row-->
 
+<?php /*?>
 <div class="row separador">
 <div class="col-md-6">
 <h2><?php echo get('bloque_texto_1_titulo'); ?></h2>
@@ -61,6 +76,7 @@ $id = get_the_ID();?>
 <p><?php echo get('bloque_texto_2_texto'); ?></p>
 </div>
 </div>
+<?php */?>
 
 <?php /*?>
 <div class="row">
@@ -108,4 +124,7 @@ $id = get_the_ID();?>
         });
     });
 </script>
+<style type="text/css">
+.single-tipo_de_cancer.postid-68 .solicitaSeguro , .single-tipo_de_cancer.postid-74 .solicitaSeguro{ background-color:#ef8eb5}
+</style>
 <?php get_footer('interior'); ?>

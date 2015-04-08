@@ -64,10 +64,41 @@
 
 <!--//FACEBOOK OG-->
 
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N4F3GN"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N4F3GN');</script>
+<!-- End Google Tag Manager -->
+
 </head>
 
 
 <body>
+<div style="display:none;">
+  <!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 961310248;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/961310248/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+  
+</div>
 
 <!--LOADER<div class="loader"></div>
 <script type="text/javascript">
@@ -81,7 +112,7 @@ $(window).load(function() {
 
 <div id="header" class="navbar navbar-inverse" role="navigation">
 	
-			<div class="logo"><a href="<?php echo home_url() ?>"><img src="<?php bloginfo('template_directory'); ?>/images/iram-logo.png" /></a></div>
+			<div class="logo"><a href="<?php echo home_url() ?>"><img src="<?php bloginfo('template_directory'); ?>/images/iram-40-blanco.png" /></a></div>
 <div class="container">
 			<div class="navbar-header">
 			  <button class="navbar-toggle collapsed btn-lg" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">

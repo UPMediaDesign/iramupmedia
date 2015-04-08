@@ -33,13 +33,10 @@ Template Name: Seguros
 
 
 <div class="col-md-4">				
-            <?php
-$src = wp_get_attachment_image_src( get_post_thumbnail_id($post->ID), array( 1000,300 ), false, '' );
-?>    
-<a style="background: url(<?php echo $src[0]; ?>); -webkit-border-radius: 5px; border-radius: 5px;" href="<?php echo get_permalink(); ?>" class="seguros">
+                
+<a href="<?php echo get_permalink(); ?>" class="seguros" id="seguro-<?php echo $post->ID?>">
 <div class="datosPrecios">DESDE<br/><strong><?php echo get('datos_precio');?></strong></div>
 <figure class="effect-ruby">
-
 <figcaption>
 <h2><?php the_title(); ?></h2>
 <p>Ver Más +</p>
@@ -49,6 +46,12 @@ $src = wp_get_attachment_image_src( get_post_thumbnail_id($post->ID), array( 100
 </div>
 
 <?php endwhile; ?> 
+
+<style type="text/css">
+#seguro-471 , #seguro-471 .datosPrecios {
+  background-color: #ef8eb5;
+}
+</style>
 
 </div><!--separador-->
 

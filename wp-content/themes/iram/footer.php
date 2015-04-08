@@ -30,7 +30,7 @@
 			{name: "Iram Expertos en Oncología"});
 		
 		
-		var myLatlng = new google.maps.LatLng(-33.402139,-70.587144);  
+		var myLatlng = new google.maps.LatLng(-33.401423,-70.587319);  
         var mapOptions = {
           center: myLatlng,
           zoom: 17,
@@ -64,7 +64,7 @@
   			map.setMapTypeId('map_style');
 		
 		var image = 'http://iram.upmedia.cl/wp-content/themes/iram/images/pin.png';	
-		var myLatlng = new google.maps.LatLng(-33.402139,-70.587144);
+		var myLatlng = new google.maps.LatLng(-33.401423,-70.587319);
 		var marker = new google.maps.Marker({
       		position: myLatlng,
      		map: map,
@@ -133,7 +133,6 @@ google.maps.event.addListener(marker, 'click', function() {
 <div class="container">
 <div class="row">
 <div class="logoFoot"></div>
-<div class="socialFoot"><a href="#" class="facebook"></a> <a href="#" class="twitter"></a></div>
 </div>
 </div>
 </div>
@@ -141,34 +140,72 @@ google.maps.event.addListener(marker, 'click', function() {
 <div class="container">
 <div class="row">
 
-<div class="col-md-4 foot">
-<h3>Ubicación</h3>
-<p>Américo Vespucio Norte 1314, Vitacura
-Región Metropolitana, Santiago - Chile</p>
-</div>
 
-<div class="col-md-4 foot">
+
+<div class="col-xs-6 col-sm-3 foot">
 <h3>Contacto</h3>
 <p>Fono: (+562) 2 754-1700</br>
 Fax: (+562) 2 228-7003 / (+562) 2 754-1751</br>
 E-mail: <a target="_blank" href="mailto:iram@iram.cl">iram@iram.cl</a></p>
 </div>
 
-<div class="col-md-4 foot">
+<div class="col-xs-6 col-sm-3 foot">
 <h3>Website</h3>
 <ul>
 <li><a href="<?php echo home_url() ?>">Inicio</a></li>
 <li><a href="<?php echo home_url() ?>/quienes-somos/nuestra-filosofia">Nuestra Filosofía</a></li>
-<li><a href="<?php echo home_url() ?>/seguros">Seguros</a></li>
+<li><a href="<?php echo home_url() ?>/seguros">Seguro Oncológico</a></li>
 <li><a href="<?php echo home_url() ?>/info-pacientes/que-es-el-cancer">¿Qué es el Cáncer?</a></li>
 <li><a href="<?php echo home_url() ?>/noticias">Noticias</a></li>
 <li><a href="<?php echo home_url() ?>/contacto">Contacto</a></li>
+<li><a href="http://www.iram.cl/wp-content/uploads/2014/12/2014-ARANCELES-IRAM-VIGENTES-RECEPCION-LEY-.docx" target="_blank">Aranceles Particulares</a></li>
+<li><a href="http://www.iram.cl/wp-content/uploads/2014/12/2014-20-soluciones-integrales-de-salud.docx" target="_blank">Las 20 Soluciones Integrales de Salud</a></li>
 </ul>
 </div>
 
-<div id="copyright">Todos los derechos reservados iram© Copyright 2014</div>
+<div class="col-xs-6 col-sm-3 foot">
+<h3>Tipos de Cáncer</h3>
+<ul>
+<li><a href="<?php echo home_url() ?>/tipo_de_cancer/cancer-de-mamas/">Cáncer de Mamas</a></li>
+<li><a href="<?php echo home_url() ?>/tipo_de_cancer/cancer-de-pulmon/">Cáncer de Pulmón</a></li>
+<li><a href="<?php echo home_url() ?>/tipo_de_cancer/cancer-de-vejiga/">Cáncer de Vejiga</a></li>
+<li><a href="<?php echo home_url() ?>/tipo_de_cancer/cancer-de-piel/">Cáncer de Piel</a></li>
+<li><a href="<?php echo home_url() ?>/tipo_de_cancer/cancer-de-prostata/">Cáncer de Próstata</a></li>
+<li><a href="<?php echo home_url() ?>/tipo_de_cancer/cancer-de-colon/">Cáncer de Colon</a></li>
+<li><a href="<?php echo home_url() ?>/tipo_de_cancer/tumores-ginecologicos/">Tumores Ginecológicos</a></li>
+</ul>
+</div>
+
+<div class="col-xs-6 col-sm-3 foot">
+<br>
+<br>
+<h3></h3>
+<ul>
+<li><a href="<?php echo home_url() ?>/tipo_de_cancer/cancer-de-boca-y-esofago/">Cáncer de Boca y Esófago</a></li>
+<li><a href="<?php echo home_url() ?>/tipo_de_cancer/cancer-de-higado/">Cáncer de Hígado</a></li>
+<li><a href="<?php echo home_url() ?>/tipo_de_cancer/cancer-de-estomago/">Cáncer de Estómago</a></li>
+<li><a href="<?php echo home_url() ?>/tipo_de_cancer/cancer-de-pancreas/">Cáncer de Páncreas</a></li>
+<li><a href="<?php echo home_url() ?>/tipo_de_cancer/enfermedad-de-hodgkin/">Enfermedad de Hodgkin</a></li>
+<li><a href="<?php echo home_url() ?>/tipo_de_cancer/linfomas-no-hodgkin/">Linfomas no Hodgkin</a></li>
+<li><a href="<?php echo home_url() ?>/tipo_de_cancer/leucemias-agudas/">Leucemias Agudas</a></li>
+<li><a href="<?php echo home_url() ?>/tipo_de_cancer/leucemias-cronicas/">Leucemias Crónicas</a></li>
+</ul>
+</div>
+
+<div id="copyright">Todos los derechos reservados iram© Copyright 2014 - <strong>Ubicación:</strong> Américo Vespucio Norte 1314, Vitacura Región Metropolitana, Santiago - Chile</div>
 
 </div>
 </div><!--footHeading-->
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-53441990-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
 </body>
 </html>

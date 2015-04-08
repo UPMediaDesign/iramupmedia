@@ -24,7 +24,7 @@ Template Name: Contacto
 			{name: "Iram Expertos en Oncología"});
 		
 		
-		var myLatlng = new google.maps.LatLng(-33.402139,-70.587144);  
+		var myLatlng = new google.maps.LatLng(-33.401423,-70.587319);  
         var mapOptions = {
           center: myLatlng,
           zoom: 17,
@@ -58,7 +58,7 @@ Template Name: Contacto
   			map.setMapTypeId('map_style');
 		
 		var image = 'http://iram.upmedia.cl/wp-content/themes/iram/images/pin.png';	
-		var myLatlng = new google.maps.LatLng(-33.402139,-70.587144);
+		var myLatlng = new google.maps.LatLng(-33.401423,-70.587319);
 		var marker = new google.maps.Marker({
       		position: myLatlng,
      		map: map,

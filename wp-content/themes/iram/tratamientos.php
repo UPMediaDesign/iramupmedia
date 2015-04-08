@@ -7,6 +7,7 @@ Template Name: Tratamientos
 
 <div class="container paginas">
 <div class="jumbotron pages">
+<div class="datosPrecios2"><a href="#"><strong>Solicita tu Seguro Oncológico</strong></a></div>
 <h1><?php the_title(); ?></br><strong><?php echo get('segundo_titulo'); ?></strong></h1>
 <p><?php echo get('descripcion_corta'); ?></p>
 </div>

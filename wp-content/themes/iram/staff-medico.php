@@ -34,7 +34,7 @@ Template Name: Staff Médico
 <div class="docs">
 <ul class="bxslider">
   
-  <? query_posts('posts_per_page=-1&orderby=rand&paged='.$paged.'&post_type=doctor'); ?>
+  <? query_posts('posts_per_page=-1&paged='.$paged.'&post_type=doctor'); ?>
 <?php while ( $wp_query->have_posts() ) : $wp_query->the_post(); ?>
 
 <a href="<?php echo get_permalink(); ?>">
@@ -61,9 +61,11 @@ Template Name: Staff Médico
 $('.bxslider').bxSlider({
   minSlides: 2,
   maxSlides: 5,
-  slideWidth: 207,
   moveSlides: 5,
+  slideWidth: 200,
+  infiniteLoop: false,
   slideMargin: 30
+
 });
   });
 </script>

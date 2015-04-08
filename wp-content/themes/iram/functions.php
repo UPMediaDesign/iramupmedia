@@ -28,7 +28,7 @@ pti_set_post_type_icon( 'seguro', 'lock' );
 add_filter('avatar_defaults', 'miavatar');  
 function miavatar ($avatar_defaults) {  
      // Ruta a nuestra imagen (puede estar en el mismo servidor o en otro)
-     $avatar = 'http://pruebafn.upmedia.cl/wp-content/themes/ferrada/images/ferrada-avatar.png';  
+     $avatar = 'http://www.iram.cl/wp-content/themes/ferrada/images/ferrada-avatar.png';  
      // Nombre de nuestro avatar
      $avatar_defaults[$avatar] = "Ferrada";  
      return $avatar_defaults;  
@@ -61,7 +61,7 @@ add_action( 'wp_enqueue_scripts', 'wpt_register_css' );
 //cambia url login
 add_action( 'login_headerurl', 'my_custom_login_url' );
 function my_custom_login_url() {
-return 'http://pruebafn.upmedia.cl';
+return 'http://www.iram.cl';
 }
 // CUSTOM ADMIN LOGIN HEADER LOGO
 function my_custom_login_logo() {
@@ -158,6 +158,16 @@ register_sidebar(array(
 if ( function_exists('register_sidebar') )
 register_sidebar(array(
 'name' => 'Seguro Form',
+'before_widget' => '',
+'after_widget' => '',
+'before_title' => '<h2>',
+'after_title' => '</h2>',
+));
+?>
+<?
+if ( function_exists('register_sidebar') )
+register_sidebar(array(
+'name' => 'Seguro Form Banchile',
 'before_widget' => '',
 'after_widget' => '',
 'before_title' => '<h2>',

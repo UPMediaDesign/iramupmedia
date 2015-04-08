@@ -64,24 +64,35 @@
 
 <!--//FACEBOOK OG-->
 
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N4F3GN"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N4F3GN');</script>
+<!-- End Google Tag Manager -->
+
+
 </head>
+<body <?php body_class() ?>>
 
-
-<body>
-
-<!--LOADER<div class="loader"></div>
+<!-- LOADER
+<div class="loader"></div>
 <script type="text/javascript">
 $(window).load(function() {
 	$(".loader").fadeOut("slow");
 })
-</script>-->
+</script>
+-->
 <div class="navbar-wrapper white">
 <div class="container">
 <header>
 
 <div id="header" class="navbar navbar-inverse" role="navigation">
 	
-			<div class="logo"><a href="<?php echo home_url() ?>"><img src="<?php bloginfo('template_directory'); ?>/images/logo-iram-color.png" /></a></div>
+			<div class="logo"><a href="<?php echo home_url() ?>"><img src="<?php bloginfo('template_directory'); ?>/images/iram-40.png" /></a></div>
 <div class="container">
 			<div class="navbar-header">
 			  <button class="navbar-toggle collapsed btn-lg" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
