@@ -1367,7 +1367,7 @@ a.btnAsegurado:hover{
 	.logo {margin: 0px 15px 0px 0px; float: left; }
 	.nav>ul>li>a{font-size: 14px !important; padding: 10px 8px; }
 	.nav>ul>li {margin-right: 1%;}
-	.nav>ul {width: 80%;}
+	.nav>ul {width: 65%; margin-left:5%;}
 	.pd0sidemobile{padding-left:15px !important; padding-right: 15px !important;}
 	
 }
@@ -1468,7 +1468,7 @@ border-radius: 4px;
 }
 
 .nav>ul{
-	float:left;
+	float:left; margin-left: 0;
 }
 
 
